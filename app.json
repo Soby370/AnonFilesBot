@@ -13,19 +13,19 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "5801733818:AAGJ7h1Ha7NdQcuL_UM9qpTAVWWqJmv7Sx4"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": ""
+            "value": "12622602"
         },
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "d1d95cd794b6bb92752c36b025a6db1d"
         },
         "UPDATES_CHANNEL": {
             "description": "Your Update Channel Username without '@'",
-            "value": ""
+            "value": "streamchy"
         }
     },
     "addons": [],
